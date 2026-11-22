@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="leafora_background">#B5DFB2</color>
-    <color name="leafora_primary">#174D35</color>
-    <color name="leafora_secondary">#315C43</color>
-    <color name="leafora_card">#FFFFFF</color>
-</resources>
